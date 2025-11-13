@@ -15,5 +15,5 @@ I'm a first year undergraduate student from [School of EECS](https://eecs.hust.e
 and you can also donate your money to me to help a poor college student[My money wallet](../images/my_payment_code.jpg)
 
 Here are some photos of my beloved concubine
-[lm](../images/lw2.jpg)/[lm](../images/lw3.jpg) / [lm](../images/lw4.jpg) /[lwk](../images/lwk.jpg) /[xjb](../images/xjb.jpg) /[jt](../images/jt.jpg) /[my_dormitory](../images/my_dormitory.jpg)
+[lm](../images/lw2.jpg)/[lm](../images/lw3.jpg) / [lm](../images/lw4.jpg) /[lwk](../images/lwk.jpg) /[xjb](../images/xjb.jpg) /[jt](../images/jt.jpg) /[my_dormitory](../images/my_dormitory.jpg)/
 [me](../images/gqj.jpg)
