@@ -12,5 +12,5 @@ I'm a first year undergraduate student from [School of EECS](https://eecs.hust.e
  [Email](mailto:qunmu_2025@qq.com) /[Github](https://github.com/GQJ-web)
  Wechat-gqj17879522110/ QQ-2106762909
  
-and you can also donate your money to me to help a poor college student[My money wallet](../image/my_payment_code.jpg)
+and you can also donate your money to me to help a poor college student[My money wallet](../images/my_payment_code.jpg)
 
